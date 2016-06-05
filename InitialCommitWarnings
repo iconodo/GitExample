@@ -1,0 +1,5 @@
+/home/susana/AndroidStudioProjects/GitExample/app/src/main/AndroidManifest.xml
+    Warning:Warning:line (5)On SDK version 23 and up, your app data will be automatically backed up and restored on app install. Consider adding the attribute `android:fullBackupContent` to specify an `@xml` resource which configures which files to backup. More info: https://developer.android.com/preview/backup/index.html
+    Warning:Warning:line (5)App is not indexable by Google Search; consider adding at least one Activity with an ACTION-VIEW intent-filler. See issue explanation for more details.
+/home/susana/AndroidStudioProjects/GitExample/app/src/main/java/com/example/susana/gitexample/GitExampleActivity.java
+    Warning:Warning:line (22)Method invocation 'fab.setOnClickListener(new View.OnClickListener() {             @Override             public void on...' may produce 'java.lang.NullPointerException'
